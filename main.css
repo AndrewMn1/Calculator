@@ -37,7 +37,7 @@ body{
     cursor: pointer;
     background-color: rgb(31, 31, 31);
     border: none;
-    color: white;
+    color: green;
 }
 .but:hover{
     background-color: black;
